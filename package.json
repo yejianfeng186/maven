@@ -1,0 +1,27 @@
+{
+  "name": "maven",
+  "version": "0.0.1",
+  "description": "metadata augment the visual element networks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yejianfeng186/maven.git"
+  },
+  "keywords": [
+    "metadata"
+  ],
+  "author": "Jianfeng YE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yejianfeng186/maven/issues"
+  },
+  "homepage": "https://github.com/yejianfeng186/maven#readme",
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.10",
+    "d3": "^7.9.0",
+    "d3-sankey": "^0.12.3"
+  }
+}
